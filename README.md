@@ -15,7 +15,7 @@ assistive manipulation.
 ---
 
 ## Status
-
+📐 **[Design notes](docs/DESIGN.md)** — kinematics derivation, bring-up process, calibration, and workspace optimization.
 **Foundation complete.** The pieces below work today and are tested:
 
 - **Kinematics** — forward, inverse (both elbow branches), joint-limit handling,
